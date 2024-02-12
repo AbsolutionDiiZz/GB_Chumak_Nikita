@@ -1,4 +1,4 @@
-[# GB_Chumak_Nikita] (https://docs.google.com/document/d/1QzW1oa4CowQEk3SOL4dNw7mfYkolFIj_YB94erhqNd8/edit?usp=sharing) https://docs.google.com/document/d/1QzW1oa4CowQEk3SOL4dNw7mfYkolFIj_YB94erhqNd8/edit?usp=sharing
+[# GB_Chumak_Nikita] https://docs.google.com/document/d/1QzW1oa4CowQEk3SOL4dNw7mfYkolFIj_YB94erhqNd8/edit?usp=sharing
  
 Управление: Игрок взаимодействует с игрой благодаря кликам. Есть несколько полей, они различаются цветами.
 
